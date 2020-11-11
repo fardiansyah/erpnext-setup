@@ -146,7 +146,7 @@ and downloads a bunch of stuff and then builds it.
 
 ```sh
   pip3 install --user frappe-bench
-  bench init frappe-bench --frappe-branch version-12
+  bench init frappe-bench --frappe-branch develop
 ```
 
 For the second command, a message about experiencing errors after October 2020 appears.
@@ -175,7 +175,7 @@ First we temporarily start the frappe development server:
 Then we create a new site. Substitute your own name.
 
 ```sh
-  bench new-site erpdev.softwaretohardware.com
+  bench new-site erp.example.com
 ```
 
 You will be prompted for the mysql password and a bit later, for the
