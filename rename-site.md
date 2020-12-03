@@ -12,5 +12,5 @@ $ bench setup nginx
 
 Reload nginx
 ```console
-sudo service nginx reload
+$ sudo service nginx reload
 ```
