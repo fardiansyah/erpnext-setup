@@ -1,4 +1,4 @@
-Rename Site Name
+# Rename Site Name
 
 Rename site folder
 ```console
